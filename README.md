@@ -21,7 +21,7 @@ Aplicación de microservicios del Tutorial 6, con un shell de mini-sitios y un c
 | --- | --- | --- | --- |
 | Books | Netlify Functions | Neon (PostgreSQL) | https://tarea3-books-microservice.netlify.app/api/books |
 | Authors | Cloudflare Workers | Cloudflare D1 | https://tarea3-authors-microservice.nazareth-gomez-504430491.workers.dev/api/authors |
-| Publishers | Vercel Functions | Turso (libSQL) | `/api/publishers` y `/api/publishers/:id` |
+| Publishers | Vercel Functions | Turso (libSQL) | https://publishers-backend-six.vercel.app/api/publishers |
 | Reviews | Cloudflare Workers | Cloudflare D1 | https://tarea3-reviews-microservice.nazareth-gomez-504430491.workers.dev/api/reviews |
 
 Cada backend incluye encabezados CORS y los datos de ejemplo del tutorial. Si no hay variables de entorno de base de datos, responde con el seed de lectura.

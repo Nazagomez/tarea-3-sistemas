@@ -10,5 +10,5 @@ export const reviewsSite = './reviews/';
 
 export const booksApi = 'https://tarea3-books-microservice.netlify.app';
 export const authorsApi = 'https://tarea3-authors-microservice.nazareth-gomez-504430491.workers.dev';
-export const publishersApi = 'https://tarea3-publishers-microservice.vercel.app';
+export const publishersApi = 'https://publishers-backend-six.vercel.app';
 export const reviewsApi = 'https://tarea3-reviews-microservice.nazareth-gomez-504430491.workers.dev';
