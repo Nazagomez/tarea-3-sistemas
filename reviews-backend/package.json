@@ -1,0 +1,12 @@
+{
+  "name": "reviews-microservice",
+  "version": "1.0.0",
+  "description": "Tarea 3 - reviews microservice following Tutorial 6 Cloudflare Workers + D1 pattern",
+  "scripts": {
+    "dev": "wrangler dev --port 8790",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.125.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "books-microservice",
+  "version": "1.0.0",
+  "description": "Tutorial 6",
+  "scripts": {
+    "dev": "netlify dev --port 8787"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.7"
+  },
+  "devDependencies": {
+    "netlify-cli": "^18.9.4"
+  }
+}

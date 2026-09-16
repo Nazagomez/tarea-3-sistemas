@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.wrangler/
+.vercel/
+.netlify/
+.turbo/
+coverage/
+*.log
+.vite/

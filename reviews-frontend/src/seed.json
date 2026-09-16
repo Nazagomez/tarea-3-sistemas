@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "book_id": "1",
+    "book_title": "Operating System Concepts",
+    "reviewer": "Maria Lopez",
+    "rating": 5,
+    "comment": "A complete and classic textbook for operating systems."
+  },
+  {
+    "id": "2",
+    "book_id": "1",
+    "book_title": "Operating System Concepts",
+    "reviewer": "Carlos Ruiz",
+    "rating": 4,
+    "comment": "Very complete, although a bit dense for beginners."
+  },
+  {
+    "id": "3",
+    "book_id": "2",
+    "book_title": "Database System Concepts",
+    "reviewer": "Ana Perez",
+    "rating": 5,
+    "comment": "The classic reference for database systems."
+  },
+  {
+    "id": "4",
+    "book_id": "3",
+    "book_title": "Computer Networks",
+    "reviewer": "Luis Mora",
+    "rating": 4,
+    "comment": "Clear explanations of computer networks and protocols."
+  },
+  {
+    "id": "5",
+    "book_id": "4",
+    "book_title": "Modern Operating Systems",
+    "reviewer": "Sofia Chen",
+    "rating": 5,
+    "comment": "An excellent companion to Silberschatz for OS concepts."
+  }
+]
