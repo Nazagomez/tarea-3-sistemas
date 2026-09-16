@@ -19,7 +19,7 @@ Aplicación de microservicios del Tutorial 6, con un shell de mini-sitios y un c
 
 | Servicio | FaaS | Base de datos | API |
 | --- | --- | --- | --- |
-| Books | Netlify Functions | Neon (PostgreSQL) | `/api/books` y `/api/books/:id` |
+| Books | Netlify Functions | Neon (PostgreSQL) | https://tarea3-books-microservice.netlify.app/api/books |
 | Authors | Cloudflare Workers | Cloudflare D1 | https://tarea3-authors-microservice.nazareth-gomez-504430491.workers.dev/api/authors |
 | Publishers | Vercel Functions | Turso (libSQL) | `/api/publishers` y `/api/publishers/:id` |
 | Reviews | Cloudflare Workers | Cloudflare D1 | https://tarea3-reviews-microservice.nazareth-gomez-504430491.workers.dev/api/reviews |

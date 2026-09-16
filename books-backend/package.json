@@ -6,9 +6,6 @@
     "dev": "netlify dev --port 8787"
   },
   "dependencies": {
-    "@neondatabase/serverless": "^0.10.7"
-  },
-  "devDependencies": {
-    "netlify-cli": "^18.9.4"
+    "@neondatabase/serverless": "^0.10.4"
   }
 }
