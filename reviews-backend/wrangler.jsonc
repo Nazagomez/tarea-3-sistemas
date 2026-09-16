@@ -1,5 +1,5 @@
 {
-  "name": "reviews-microservice",
+  "name": "tarea3-reviews-microservice",
   "compatibility_date": "2026-08-24",
   "main": "./worker/index.js"
 }
